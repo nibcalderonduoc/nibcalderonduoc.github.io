@@ -1,0 +1,81 @@
+{"viaje":
+  [ 
+    {
+      "id": 1,
+      "conductor": "Jorge Lopez",
+      "resumen":"Soy estudiante vespertino de Informatica de DUOC, voy en 2 año y viajo habitualmente a Puente Alto al salir de clases. Soy un conductor calmado y respetuoso al volante.",
+      "destino": "Puente Alto",
+      "ruta": "Av.España",
+      "origen": "Antonio Varas",
+      "celular": "+56 965962411",
+      "valor": "$1.500",
+      "patente": "DG-XX-33",
+      "carrera": "Informatica",
+      "imagen":"http://pladecopuentealto.pragmac.cl/wp-content/uploads/2022/04/gruas-puente-alto.png"
+    },
+    {
+      "id": 2,
+      "conductor": "David Pereira",
+      "resumen":"Soy estudiante vespertino de Analista programador de DUOC, voy en 1 año y viajo todos los dias a Maipú después de mis clases. Tengo licencia hace 2 años y me gusta la velocidad.",
+      "destino": "Maipu",
+      "ruta": "Autopista",
+      "origen": "Antonio Varas",
+      "celular": "+56 967582656",
+      "valor": "$2.500",
+      "patente": "FG-XX-44",
+      "carrera": "Analista programación",
+      "imagen":"https://i.ytimg.com/vi/5lxmK8UG3R8/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "conductor": "Victoria Lopez",
+      "resumen":"Soy estudiante Vespertino de Diseño de DUOC, voy en 3 año y  mi ruta habitual es dentro de de la zona norte de santiago. Me gustan los animales y tengo 2 gatos.",
+      "destino": "Huechuraba",
+      "ruta": "Autopista",
+      "origen": "Antonio Varas",
+      "celular": "+56 9675855698",
+      "valor": "$1.500",
+      "patente": "KK-GJ-33",
+      "carrera": "Diseño",
+      "imagen":"https://www.latercera.com/resizer/Fj_RC5K9_Ytoa_EjJ0c1xM8XI30=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/XAVHAT4LBRCX3PQD3DSOYVOFCQ.jpg"
+    }
+  ],
+  "credenciales":[
+    {
+      "id": 1,
+      "username": "nib.calderon",
+      "password": "123456",
+      "nombre": "Nibaldo",
+      "email": "nib.calderon@duocuc.cl"
+    },
+    {
+      "id": 2,
+      "username": "vic.lopez",
+      "password": "123456",
+      "nombre": "Victoria",
+      "email": "vic.lopez@duocuc.cl"
+    },
+    {
+      "id": 3,
+      "username": "jo.lopez",
+      "password": "123456",
+      "nombre": "Jorge",
+      "email": "jo.lopez@duocuc.cl"
+    }
+    ,
+    {
+      "id": 4,
+      "username": "jo.tobar",
+      "password": "123456",
+      "nombre": "Jose",
+      "email": "jo.tobar@duocuc.cl"
+    },
+    {
+      "id": 5,
+      "username": "d.caresg",
+      "password": "123456",
+      "nombre": "Diego",
+      "email": "d.caresg@profesor.duoc.cl"
+    }
+  ]
+}
